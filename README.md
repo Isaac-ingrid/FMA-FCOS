@@ -7,7 +7,4 @@ The FMA-FCOS dataset comprises 7 distinct scenarios, totaling almost 7000 sets o
 We provide usable camera and millimeter-wave radar files. 
 
 Baidu Netdisk:
-https://pan.baidu.com/s/1JCOuWzjmHlPAXw2DD4izNQ?pwd=9evw  Extracted code：9evw
-
-Google drive:
-https://drive.google.com/drive/folders/1o6N5gtufQt8HivO36VKsszNRZbtIy9GO?usp=drive_link
+https://pan.baidu.com/s/1k8t2lbXLQ88KF9GujpBKcw?pwd=48ge  Extracted code：48ge
